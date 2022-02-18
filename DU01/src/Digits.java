@@ -2,6 +2,7 @@
 public class Digits {
 
     public static int calculate(int k, int b) {
+        
         return -1;
     }
 
